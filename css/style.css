@@ -5,21 +5,28 @@ body {
 }
 
 h1 {
-  font-size: 21px;
+  font-size: 32px;
   font-weight: 700;
   text-transform: uppercase;
   line-height: 26px;
 }
 
 h2 {
-  font-size: 16px;
+  font-size: 28px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 21px;
+}
+
+h3 {
+  font-size: 24px;
   font-weight: 700;
   text-transform: uppercase;
   line-height: 21px;
 }
 
 p {
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 400;
   text-transform: uppercase;
   line-height: 24px;
